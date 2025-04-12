@@ -35,7 +35,7 @@
 #endif
 
 // --- W25Q128JV CONFIGURATION ---
-
+ 
 #define W25Q128JV_SPI_PORT spi0
 #define W25Q128JV_CS_PIN 5
 #define W25Q128JV_SCK_PIN 6
